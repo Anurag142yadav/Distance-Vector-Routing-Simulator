@@ -34,8 +34,8 @@ You need Python installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
-    cd [Your Repository Name]
+    git clone https://github.com/Anurag142yadav/Distance-Vector-Routing-Simulator.git
+    cd Distance-Vector-Routing-Simulator
     ```
 
 2.  **Install Flask:**
